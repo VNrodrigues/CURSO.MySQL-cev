@@ -1,6 +1,6 @@
 ## Meu primeiro projeto em mySQL
 
-Este é o meu primeiro projeto feito com mySQL. Usando como guia o curso de mySQL da plataforma Curso em Vídeo, instrutor Guilherme Guanabara.
+Este é o meu primeiro projeto feito com mySQL. Usando como guia o curso de mySQL da plataforma Curso em Vídeo com o instrutor Guilherme Guanabara.
 
 Neste projeto aprendi sobre:
 - Criar databases;
